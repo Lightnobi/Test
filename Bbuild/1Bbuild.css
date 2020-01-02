@@ -1,0 +1,44 @@
+#h{
+	Font:bold 100px times new roman;
+	}
+	
+header {
+	width:100%;
+background:rgb(0,255,255);
+text-align:center;
+word-spacing=1.6em;
+}
+images{
+	margin:10px;
+	}
+a{
+	text-decoration:none;
+	color:white;
+	}
+.nav{
+	padding:10px;
+	margin:;
+	background:black;
+    color:white;
+    font:bold 30px aerial;
+	}
+	.ib1{
+		background:grey;
+		padding:30px;
+		border:normal 10px;
+		}
+	.ib2{
+		margin-top:20px;
+		}
+		
+		footer{
+			text-align:center;
+			background: rgb(190,190,190);
+			padding:10px;
+			margin-bottom:10px;
+			//border: 10px black solid;
+			}
+			
+			
+			
+			

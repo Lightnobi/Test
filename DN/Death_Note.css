@@ -1,0 +1,29 @@
+*{
+background:black;
+}
+body{
+	margin:3%;
+	}
+	.d{
+		background-image:url('LK.bg.jpg');
+		}
+		
+ h1{
+ 	font: Bold 50px ;
+	color:Red;
+}
+p{
+  font: normal 16px Arial;
+  width:90%;
+  margin:0;
+  color:white;
+  }
+  #f{
+  	border:1px #333 solid;
+  	background:#333;
+  	font: normal 12px aerial;
+  	color:white;
+      text-align:center;
+      margin:10px;
+      border-radius:10px;
+  }

@@ -1,0 +1,17 @@
+*{
+	background:black;
+	color: White;
+	}
+	header{
+		text-align:center;
+		font:bold 200px times new roman;
+		}
+a{
+	color:White;
+	text-decoration:none;
+	}
+	img{
+		margin-left:50px;
+		margin-top:90px;
+		font:normal 40px times New Roman;
+		}
