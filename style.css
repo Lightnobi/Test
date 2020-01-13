@@ -1,0 +1,33 @@
+*{
+background:black;
+color:white;
+}
+	.box{
+		font : normal 100px aerial;
+		background:rgb(254,97,78);
+		position:fixed;
+		border:0px #000 solid;
+		margin:0%;
+		padding: 0px 0px;
+		padding-left:300px;
+		padding-right:400px;
+		text-align:center;
+		}
+		 .dn{
+			border:15px white solid;
+			margin-left:25%;
+			padding : 10px 100px ;
+			}
+			.js{
+				border:7px #fff solid;
+				padding: 100px 400px;
+				padding-right:555px;
+				background:rgb(40,0,0);
+				border-radius:10px;
+				}
+#dni{
+	magin:auto;
+	}
+#logo{
+	margin-top:36%;
+	}
